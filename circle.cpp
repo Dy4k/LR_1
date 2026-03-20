@@ -32,7 +32,7 @@ int main() {
     double area = PI * r * r;
     double sector_area = (PI * r * r * angle) / 360;
 
-    // Результаты 
+    // Результаты работы программы
     cout << "\nДлина окружности: " << length << endl;
     cout << "Площадь круга: " << area << endl;
     cout << "Площадь сектора: " << sector_area << endl;
