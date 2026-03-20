@@ -15,7 +15,7 @@ double diagonal(double a, double b) {
     return sqrt(a * a + b * b);
 }
 
-// проверка на положительное число
+// проверка на положительное число пишу на защите это
 double inputPositive() {
     double x;
     do {
